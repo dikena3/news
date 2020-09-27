@@ -7,7 +7,7 @@ header{
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url(https://cdn.pixabay.com/photo/2020/07/22/15/43/beach-5429182_960_720.jpg) bottom no-repeat;
+    background: url(https://cdn.pixabay.com/photo/2020/07/22/15/43/beach-5429182_960_720.jpg) center;
     background-size: cover;
 }
 h1{
